@@ -1,5 +1,6 @@
 /* Class Calculator with the method sum is used to calculate the sum of 2 String items,
-the result is represented either in String format*/
+the result is represented either in String format. To calculate Strings are converted to Integers,
+check for unexpected value is included*/
 public class Calculator {
     public String sum(String a, String b) {
         String result = "";
